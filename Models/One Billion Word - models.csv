@@ -1,0 +1,25 @@
+Model,PPL,Number of params,Validation perplexity,Extra Training Data,Paper Title,Date
+OmniNetT (Large),21.5,100M,Unk,false,[object Object],2021-03-01
+OmniNetP (Large),21.6,100M,Unk,false,[object Object],2021-03-01
+Transformer-XL Large,21.8,0.8B,Unk,false,[object Object],2019-01-09
+OmniNetB (Large),22,Unk,Unk,false,[object Object],2021-03-01
+Adaptive Input Very Large,23.02,1.0B,22.92,false,[object Object],2018-09-28
+Transformer-XL Base,23.5,0.46B,Unk,false,[object Object],2019-01-09
+SRU++ Large,23.5,467M,Unk,false,[object Object],2021-02-24
+10 LSTM+CNN inputs + SNM10-SKIP (ensemble),23.7,43B,Unk,false,[object Object],2016-02-07
+Adaptive Input Large,23.91,0.46B,23.83,false,[object Object],2018-09-28
+Mesh Tensorflow,24,4.9B,Unk,false,[object Object],2018-11-05
+SRU++,25.1,328M,Unk,false,[object Object],2021-02-24
+DynamicConv,26.67,0.34B,Unk,false,[object Object],2019-01-29
+High-Budget MoE,28,5B,Unk,false,[object Object],2017-01-23
+Evolved Transformer Big,28.6,,Unk,false,[object Object],2019-01-30
+LSTM-8192-1024 + CNN Input,30,1.04B,Unk,false,[object Object],2016-02-07
+LSTM-8192-1024,30.6,1.8B,Unk,false,[object Object],2016-02-07
+GCNN-14 bottleneck,31.9,,Unk,false,[object Object],2016-12-23
+Low-Budget MoE,34.1,5B,Unk,false,[object Object],2017-01-23
+BIG G-LSTM-2,36,,Unk,false,[object Object],2017-03-31
+GPT-2,42.16,1.54B,Unk,true,[object Object],2019-02-14
+RNN-1024 + 9 Gram,51.3,20B,Unk,false,[object Object],2013-12-11
+Sparse Non-Negative,52.9,33B,Unk,false,[object Object],2014-12-03
+H-Transformer-1D Nr=16 (Base),,53M,23.95,false,[object Object],2021-07-25
+H-Transformer-1D Nr=16 (Large),,144M,20.25,false,[object Object],2021-07-25

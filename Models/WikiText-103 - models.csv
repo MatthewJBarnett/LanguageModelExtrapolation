@@ -1,0 +1,61 @@
+Model,Test perplexity,Validation perplexity,Number of parameters,Extra training data,Paper Title,Date
+Megatron-LM,10.81,,8300M,true,[object Object],2019-09-17
+GLM-XXLarge (bidirectional),11.33,,10000M,false,[object Object],2021-03-18
+GLM-XXLarge (unidirectional),12.22,,10000M,false,[object Object],2021-03-18
+kNN-LM,15.79,15.81,247M,false,[object Object],2019-11-01
+Routing Transformer,15.8,,,false,[object Object],2020-03-12
+Transformer-XL (RMS dynamic eval),16.4,15.8,257M,false,[object Object],2019-04-17
+Transformer-XL (SGD dynamic eval),17,16.3,257M,false,[object Object],2019-04-17
+"Compressive Transformer (18L, M=1024)",17.1,16,,false,[object Object],2019-11-13
+SegaTransformer-XL,17.1,,257M,false,[object Object],2020-04-30
+SRU++ Large,17.4,16.7,232M,false,[object Object],2021-02-24
+Transformer-XL Large + Phrase Induction,17.4,,257M,false,[object Object],2019-06-04
+GPT-2 Full,17.48,,1542M,true,[object Object],2019-02-14
+Staged Training,17.56,16.89,247M,false,[object Object],2020-12-31
+Sandwich Transformer,17.96,,247M,false,[object Object],2019-11-10
+"DIFFQ (λ=1, g=16)",18,,,false,[object Object],2021-04-20
+Shortformer,18.15,17.47,247M,false,[object Object],2020-12-31
+Feedback Transformer (8 layers),18.2,17.5,139M,false,[object Object],2020-02-21
+SRU++ Base,18.3,17.5,148M,false,[object Object],2021-02-24
+Transformer-XL Large,18.3,18.2,257M,false,[object Object],2019-01-09
+PAR Transformer Large,18.4,,,false,[object Object],2020-09-09
+Transformer (Adaptive inputs),18.7,17.97,247M,false,[object Object],2018-09-28
+T2R + Pretrain,19.6,19,,false,[object Object],2021-03-24
+Subformer,20.39,,96M,false,[object Object],2020-10-03
+BERT-Large-CAS,20.4,19.6,395M,false,[object Object],2019-04-20
+All-attention network (36 layers),20.6,19.7,133M,false,[object Object],2019-07-02
+GPT-2 Large,22.05,,774M,true,[object Object],2019-02-14
+Feedback Transformer (4 layers),22.4,21.4,44M,false,[object Object],2020-02-21
+PAR Transformer Base,22.7,,,false,[object Object],2020-09-09
+"DEQ-Transformer (medium, adaptive embed)",23.2,,110M,false,[object Object],2019-09-03
+TaLK Convolutions,23.3,,240M,false,[object Object],2020-02-08
+Rfa-Gate-Gaussian-Stateful (Big),23.5,22,,false,[object Object],2021-03-03
+Transformer-XL Standard,24,23.1,151M,false,[object Object],2019-01-09
+DeLighT,24.14,,99M,false,[object Object],2020-08-03
+Transformer-N,25.2,24.1,148M,false,[object Object],2021-04-08
+FNetAR Medium,25.81,,144.4M,false,[object Object],2021-07-22
+GPT-2 Medium,26.37,,355M,true,[object Object],2019-02-14
+AdvSoft (+ 4 layer QRNN + dynamic eval),28,27.2,,false,[object Object],2019-06-10
+DEQ-TrellisNet,29,,180M,false,[object Object],2019-09-03
+Trellis Network,29.19,,,false,[object Object],2018-09-27
+"LSTM (Hebbian, Cache, MbPA)",29.2,29,,false,[object Object],2018-03-27
+"LSTM (Hebbian, Cache)",29.7,29.9,,false,[object Object],2018-03-27
+Rfa-Gate-Gaussian-Stateful (Small),30.5,29.4,,false,[object Object],2021-03-03
+LSTM (RMC),31.6,30.8,,false,[object Object],2018-06-05
+DEQ-Transformer (small),32.4,,138M,false,[object Object],2019-09-03
+AWD-LSTM-MoS + ATOI,32.85,31.92,,false,[object Object],2019-09-18
+4 layer QRNN,33,32,151M,false,[object Object],2018-03-22
+LSTM (Hebbian),34.3,34.1,,false,[object Object],2018-03-27
+LSTM,36.4,36,,false,[object Object],2018-03-27
+GCNN-14,37.2,-,,false,[object Object],2016-12-23
+GPT-2 Small,37.5,,124M,true,[object Object],2019-02-14
+"Neural cache model (size = 2,000)",40.8,,,false,[object Object],2016-12-13
+Neural cache model (size = 100),44.8,,,false,[object Object],2016-12-13
+GCNN-8,44.9,,,false,[object Object],2016-12-23
+TCN,45.19,,,false,[object Object],2018-03-04
+Temporal CNN,45.2,-,,false,[object Object],2018-01-01
+LSTM,48.7,,,false,[object Object],2016-12-13
+Transformer (Adaptive inputs),,19.5,,false,[object Object],2019-10-09
+LSTM,,52.73,,false,[object Object],2020-05-17
+GRU,,53.78,,false,[object Object],2020-05-17
+Decay RNN,,76.67,,false,[object Object],2020-05-17

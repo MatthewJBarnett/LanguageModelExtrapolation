@@ -1,0 +1,23 @@
+Model,Bit per Character (BPC),Number of params,Extra Training Data,Paper Title,Date
+GPT-2,0.98,1542M,true,[object Object],2019-02-14
+Transformer-XL + RMS dynamic eval + decay,1.038,277M,false,[object Object],2019-04-17
+24L Transformer + 8K adaptive span,1.07,209M,false,[object Object],2019-05-19
+Transformer-XL - 24 layers,1.08,277M,false,[object Object],2019-01-09
+All-attention network - 36 layers,1.08,114M,false,[object Object],2019-07-02
+Transformer-LS (small),1.09,,false,[object Object],2021-07-05
+12L Transformer + 8K adaptive span,1.11,38M,false,[object Object],2019-05-19
+All-attention network - 18 layers,1.11,38M,false,[object Object],2019-07-02
+BP-Transformer - 12 Layers,1.11,,false,[object Object],2019-11-11
+64-layer Character Transformer Model,1.13,235M,false,[object Object],2018-08-09
+GAM-RHN-10,1.157,44.7M,false,[object Object],2019-08-16
+12-layer Character Transformer Model,1.18,44M,false,[object Object],2018-08-09
+PAR Transformer 24B,1.18,,false,[object Object],2020-09-09
+mLSTM + dynamic eval,1.19,45M,false,[object Object],2017-09-21
+Bipartite flows (8 flows),1.23,,false,[object Object],2019-05-24
+Large RHN,1.27,46M,false,[object Object],2016-07-12
+Large mLSTM +emb +WN +VD,1.27,45M,false,[object Object],2016-09-26
+LayerNorm HM-LSTM,1.29,35M,false,[object Object],2016-09-06
+BN LSTM,1.36,16M,false,[object Object],2016-03-30
+Unregularised mLSTM,1.4,45M,false,[object Object],2016-09-26
+td-LSTM-large,1.49,,false,[object Object],2016-02-26
+"td-LSTM (Zhang et al., 2016)",1.63,,false,[object Object],2016-02-26

@@ -1,0 +1,19 @@
+Model,Bit per Character (BPC),Number of params,Extra Training Data,Paper Title,Date
+Mogrifier LSTM + dynamic eval ,1.083,24M,false,[object Object],2019-09-04
+Mogrifier LSTM,1.12,24M,false,[object Object],2019-09-04
+GAM-RHN-5,1.147,16.0M,false,[object Object],2019-07-12
+Trellis Network,1.158,13.4M,false,[object Object],2018-09-27
+Feedback Transformer,1.16,10.7M,false,[object Object],2020-02-21
+Past Decode Reg. + AWD-LSTM-MoS + dyn. eval.,1.169,13.8M,false,[object Object],2018-08-14
+3-layer AWD-LSTM,1.175,13.8M,false,[object Object],2018-03-22
+Dense IndRNN,1.18,,false,[object Object],2019-10-11
+6-layer QRNN,1.187,13.8M,false,[object Object],2018-03-22
+FS-LSTM-4,1.19,27M,false,[object Object],2017-05-24
+IndRNN,1.19,,false,[object Object],2018-03-13
+FS-LSTM-2,1.193,27M,false,[object Object],2017-05-24
+NASCell,1.214,16.3M,false,[object Object],2016-11-05
+2-layer Norm HyperLSTM,1.219,14.4M,false,[object Object],2016-09-27
+R-Transformer,1.24,,false,[object Object],2019-07-12
+STAR,1.3,,false,[object Object],2019-11-25
+Temporal Convolutional Network,1.31,,false,[object Object],2018-03-04
+Bipartite Flow,1.38,,false,[object Object],2019-05-24

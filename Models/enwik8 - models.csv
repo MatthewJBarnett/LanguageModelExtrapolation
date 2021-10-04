@@ -1,0 +1,39 @@
+Model,Bit per Character (BPC),Number of params,Extra Training Data,Paper Title,Date
+"GPT-2 (48 layers, h=1600)",0.93,1542M,true,[object Object],2019-02-14
+"Transformer-XL (24 layers, RMS dynamic eval, decay)",0.94,277M,true,[object Object],2019-04-17
+Expire-Span (24 layers),0.95,208M,false,[object Object],2021-05-13
+SRU++ Large,0.96,191M,false,[object Object],2021-02-24
+Feedback Transformer,0.96,77M,false,[object Object],2020-02-21
+Sandwich Transformer (adaptive span),0.968,209M,false,[object Object],2019-11-10
+Compressive Transformer (24 layers),0.97,277M,false,[object Object],2019-11-13
+Transformer-LS (large),0.97,110M,false,[object Object],2021-07-05
+SRU++ Base,0.97,108M,false,[object Object],2021-02-24
+"Transformer (24 layers, 8k adaptive span)",0.98,209M,false,[object Object],2019-05-19
+Transformer-XL (24 layers),0.99,277M,false,[object Object],2019-01-09
+"Longformer (30 layers, h=512)",0.99,102M,false,[object Object],2020-04-10
+"Sparse Transformer (30 layers, fixed attn)",0.99,95M,false,[object Object],2019-04-23
+Routing Transformer (12 layers),0.99,,false,[object Object],2020-03-12
+Transformer-LS (small),0.99,,false,[object Object],2021-07-05
+"Longformer (12 layers, h=512)",1,41M,false,[object Object],2020-04-10
+All-attention network (18 layers),1.01,39M,false,[object Object],2019-07-02
+"Transformer (12 layers, 8k adaptive span)",1.02,39M,false,[object Object],2019-05-19
+BP-Transformer (12 layers),1.02,38M,false,[object Object],2019-11-11
+Transformer-XL (18 layers),1.03,88M,false,[object Object],2019-01-09
+Transformer (64 layers),1.06,235M,false,[object Object],2018-08-09
+Transformer-XL (12 layers),1.06,41M,false,[object Object],2019-01-09
+"SHA-RNN (4 layers, h=1024, attention head per layer)",1.068,54M,false,[object Object],2019-11-26
+"SHA-RNN (4 layers, h=1024, single attention head)",1.076,52M,false,[object Object],2019-11-26
+Transformer (12 layers),1.11,44M,false,[object Object],2018-08-09
+Mogrifier LSTM,1.146,48M,false,[object Object],2019-09-04
+LSTM,1.195,48M,false,[object Object],2019-09-04
+Cluster-Former (#C=512),1.22,,false,[object Object],2020-09-13
+AWD-LSTM (3 layers),1.232,47M,false,[object Object],2018-03-22
+Large mLSTM,1.24,46M,false,[object Object],2016-09-26
+Large FS-LSTM-4,1.25,47M,false,[object Object],2017-05-24
+Recurrent Highway Networks,1.27,46M,false,[object Object],2016-07-12
+ByteNet,1.31,,false,[object Object],2016-10-31
+LN HM-LSTM,1.32,35M,false,[object Object],2016-09-06
+"SHA-LSTM (4 layers, h=1024, no attention head)",1.33,51M,false,[object Object],2019-11-26
+Hypernetworks,1.34,27M,false,[object Object],2016-09-27
+LSTM (7 layers),1.67,,false,[object Object],2013-08-04
+All-attention network (36 layers),,114M,false,[object Object],2019-07-02

@@ -1,0 +1,41 @@
+Model,Test perplexity,Validation perplexity,Number of parameters,Extra training data,Paper Title,Date
+GPT-3 (Zero-Shot),20.5,Unk,175000M,true,[object Object],2020-05-28
+BERT-Large-CAS,31.3,36.1,395M,true,[object Object],2019-10-17
+GPT-2,35.76,Unk,1542M,true,[object Object],2019-02-14
+Mogrifier LSTM + dynamic eval,44.9,44.8,24M,false,[object Object],2019-09-04
+adversarial + AWD-LSTM-MoS + dynamic eval,46.01,46.63,22M,false,[object Object],2019-06-10
+GL-LWGC + AWD-MoS-LSTM + dynamic eval,46.34,46.64,26M,false,[object Object],2018-05-21
+FRAGE + AWD-LSTM-MoS + dynamic eval,46.54,47.38,22M,false,[object Object],2018-09-18
+AWD-LSTM-DOC x5,47.17,48.63,185M,false,[object Object],2018-08-30
+Past Decode Reg. + AWD-LSTM-MoS + dyn. eval.,47.3,48,22M,false,[object Object],2018-08-14
+AWD-LSTM-MoS + dynamic eval,47.69,48.33,22M,false,[object Object],2017-11-10
+AWD-LSTM-DRILL + dynamic eval,49.4,49.5,24M,false,[object Object],2019-05-14
+Dense IndRNN+dynamic eval,50.97,Unk,Unk,false,[object Object],2019-10-11
+AWD-LSTM + dynamic eval,51.1,51.6,24M,false,[object Object],2017-09-21
+AWD-LSTM-DOC + Partial Shuffle,52,53.79,23M,false,[object Object],2019-03-11
+AWD-LSTM-DOC,52.38,54.12,23M,false,[object Object],2018-08-30
+AWD-LSTM + continuous cache pointer,52.8,53.9,24M,false,[object Object],2017-08-07
+AWD-LSTM-MoS + Partial Shuffle,53.92,55.89,22M,false,[object Object],2019-03-11
+Trellis Network,54.19,Unk,Unk,false,[object Object],2018-09-27
+AWD-LSTM-MoS,54.44,56.54,22M,false,[object Object],2017-11-10
+AWD-FWM Schlag et al. (2020),54.48,56.76,24M,false,[object Object],2020-11-16
+Transformer-XL,54.55,56.72,24M,false,[object Object],2019-01-09
+Transformer-XL + AutoDropout,54.9,58.1,Unk,false,[object Object],2021-01-05
+2-layer skip-LSTM + dropout tuning ,55.3,57.1,24M,false,[object Object],2018-05-23
+AWD-LSTM-DRILL,55.7,58.2,24M,false,[object Object],2019-05-14
+Differentiable NAS,56.1,58.3,23M,false,[object Object],2018-06-24
+Dense IndRNN,56.37,Unk,Unk,false,[object Object],2019-10-11
+AWD-LSTM 3-layer with Fraternal dropout,56.8,58.9,24M,false,[object Object],2017-10-31
+DEQ-TrellisNet,57.1,Unk,24M,false,[object Object],2019-09-03
+AWD-LSTM,57.3,60,24M,false,[object Object],2017-08-07
+Efficient NAS,58.6,60.8,24M,false,[object Object],2018-02-09
+NAS Cell,64,Unk,25M,false,[object Object],2016-11-05
+Recurrent highway networks,65.4,67.9,23M,false,[object Object],2016-07-12
+Inan et al. (2016) - Variational RHN,66,68.1,Unk,false,[object Object],2016-11-04
+Gal & Ghahramani (2016) - Variational LSTM (large),75.2,77.9,Unk,false,[object Object],2015-12-16
+Zaremba et al. (2014) - LSTM (large),78.4,82.2,Unk,false,[object Object],2014-09-08
+"LSTM (Bai et al., 2018)",78.93,Unk,Unk,false,[object Object],2018-03-04
+Gal & Ghahramani (2016) - Variational LSTM (medium),79.7,81.9,Unk,false,[object Object],2015-12-16
+Zaremba et al. (2014) - LSTM (medium),82.7,86.2,Unk,false,[object Object],2014-09-08
+R-Transformer,84.38,Unk,Unk,false,[object Object],2019-07-12
+"GRU (Bai et al., 2018)",92.48,Unk,Unk,false,[object Object],2018-03-04

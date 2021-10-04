@@ -1,0 +1,20 @@
+Model,Bit per Character (BPC),Number of params,Extra Training Data,Paper Title,Date
+Transformer-XL + RMS dynamic eval,0.94,277M,false,[object Object],2019-04-17
+Compressive Transformer,0.97,,false,[object Object],2019-11-13
+Mogrifier LSTM + dynamic eval,0.988,96M,false,[object Object],2019-09-04
+24-layer Transformer-XL,0.99,277M,false,[object Object],2019-01-09
+Longformer Large,0.99,102M,false,[object Object],2020-04-10
+Longformer Small,1,41M,false,[object Object],2020-04-10
+18-layer Transformer-XL,1.03,88M,true,[object Object],2019-01-09
+64-layer Character Transformer Model,1.06,235M,false,[object Object],2018-08-09
+12-layer Transformer-XL,1.06,41M,true,[object Object],2019-01-09
+mLSTM + dynamic eval,1.08,46M,false,[object Object],2017-09-21
+12-layer Character Transformer Model,1.11,44M,false,[object Object],2018-08-09
+Mogrifier LSTM,1.122,96M,false,[object Object],2019-09-04
+3-layer AWD-LSTM,1.232,47M,false,[object Object],2018-03-22
+Large mLSTM +emb +WN +VD,1.24,46M,false,[object Object],2016-09-26
+Large FS-LSTM-4,1.245,47M,false,[object Object],2017-05-24
+Large RHN,1.27,46M,false,[object Object],2016-07-12
+FS-LSTM-4,1.277,27M,false,[object Object],2017-05-24
+RHN - depth 5 [zilly2016recurrent],1.31,,false,[object Object],2016-07-12
+,,,,[object Object],
